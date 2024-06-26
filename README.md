@@ -1,2 +1,2 @@
 # Woocommerce-Cart
-Customized a HTML template to WordPress Theme
+This is a customized WordPress Theme built on a HTML template
